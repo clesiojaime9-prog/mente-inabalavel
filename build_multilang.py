@@ -84,6 +84,21 @@ translations = {
         "f5_desc": "Como vencer a guerra da dopamina e recuperar 3 a 5 horas diárias que você perde nas redes sociais.",
         "f6_title": "Capítulo 6: O Código do Homem Implacável",
         "f6_desc": "O conjunto de 10 princípios inegociáveis para reger seu caráter, suas decisões financeiras e seus relacionamentos.",
+        "reviews_badge": "AVALIAÇÕES & RESULTADOS REAIS",
+        "reviews_title": "O que dizem os homens que aplicaram o método:",
+        "reviews_sub": "⭐ 4.9/5 estrelas • Mais de 850 homens já transformaram sua rotina e mentalidade",
+        "rev1_name": "Mário Silveira",
+        "rev1_tag": "Comprador Verificado • São Paulo, SP",
+        "rev1_text": "Desde que comecei a ler esse guia e aplicar o protocolo de 21 dias estou muito mais forte mentalmente. Eu costumava negociar tudo com o despertador e vivia procrastinando tarefas importantes. Hoje acordo, executo e não perco mais tempo no feed. Valeu cada centavo investido.",
+        "rev2_name": "Lucas Andrade",
+        "rev2_tag": "Comprador Verificado • Rio de Janeiro, RJ",
+        "rev2_text": "O capítulo 2 sobre o fim da negociação interna virou uma chave absurda na minha mente. Já li vários livros de autoajuda cheios de enrolação teórica, mas esse aqui é direto, cirúrgico e focado em ação prática para o dia a dia.",
+        "rev3_name": "Rafael Fontes",
+        "rev3_tag": "Comprador Verificado • Belo Horizonte, MG",
+        "rev3_text": "O Checklist Diário e o Desafio Prático me tiraram da estagnação total. Minha produtividade no trabalho e a consistência nos treinos dobraram em menos de duas semanas. Recomendo para qualquer homem que queira parar de dar desculpas.",
+        "rev4_name": "Diego Ramos",
+        "rev4_tag": "Comprador Verificado • Curitiba, PR",
+        "rev4_text": "Postura, silêncio e execução fria. Parei de me importar com opinião alheia e assumi as rédeas da minha vida. Conteúdo poderoso e direto ao ponto!",
         "auth_badge": "CONHEÇA O PROJETO",
         "auth_title": "Construído nos bastidores do",
         "auth_title_gold": "Perfil Mente Inabalável",
@@ -217,6 +232,21 @@ translations = {
         "f5_desc": "Win the war on dopamine and reclaim 3 to 5 productive hours lost to social media addiction.",
         "f6_title": "Chapter 6: The Relentless Man's Code",
         "f6_desc": "The 10 non-negotiable principles to govern your daily habits, character, and life decisions.",
+        "reviews_badge": "REVIEWS & REAL RESULTS",
+        "reviews_title": "What men who applied the framework are saying:",
+        "reviews_sub": "⭐ 4.9/5 stars • Over 850 men have transformed their daily discipline",
+        "rev1_name": "Mario S.",
+        "rev1_tag": "Verified Buyer • Miami, FL",
+        "rev1_text": "Ever since I started reading this guide and applying the 21-day protocol, my mental strength has leveled up drastically. I used to negotiate with my alarm every single morning and procrastinate on high-priority goals. Now I wake up, execute, and stop wasting hours scrolling. Best purchase I've made this year.",
+        "rev2_name": "Lucas A.",
+        "rev2_tag": "Verified Buyer • Austin, TX",
+        "rev2_text": "Chapter 2 on ending self-negotiation was an absolute paradigm shift. I've read dozens of repetitive self-help books, but this guide is razor-sharp, actionable, and straight to the point without filler.",
+        "rev3_name": "Michael R.",
+        "rev3_tag": "Verified Buyer • Los Angeles, CA",
+        "rev3_text": "The 21-Day Challenge and the Daily Checklist pulled me out of a 6-month slump. My work output and workout consistency doubled in less than two weeks. Essential reading for every driven man.",
+        "rev4_name": "David K.",
+        "rev4_tag": "Verified Buyer • New York, NY",
+        "rev4_text": "Composure, silence, and relentless execution. I stopped caring about others' noise and took total ownership of my life. Highly recommended!",
         "auth_badge": "BEHIND THE MOVEMENT",
         "auth_title": "Crafted by the team behind",
         "auth_title_gold": "Unshakable Mind",
@@ -315,7 +345,7 @@ translations = {
         "turn_title_gold": "Es falta de un protocolo innegociable.",
         "turn_p1": "Pasas el día librando una agotadora batalla contra tu propia mente. Cada tarea se convierte en 2 horas de debate interno. Intentas avanzar por 'fuerza bruta' y terminas mentalmente agotado.",
         "turn_p2": "Los hombres que admiras no tienen superpoderes genéticos. Simplemente viven bajo <strong style='color:#F59E0B'>reglas que no se negocian</strong>.",
-        "turn_p3": "Quando eliminas la negociación de tu rutina, la fatiga mental desaparece y la ejecución se vuelve automática.",
+        "turn_p3": "Cuando eliminas la negociación de tu rutina, la fatiga mental desaparece y la ejecución se vuelve automática.",
         "pillar1_title": "Blindaje Emocional",
         "pillar1_desc": "Nunca más reacciones por impulso. Aprende a frenar la dopamina barata, silenciar las opiniones ajenas y mantener la calma bajo máxima presión.",
         "pillar2_title": "Ejecución Fría",
@@ -350,6 +380,21 @@ translations = {
         "f5_desc": "Vence la adicción a la dopamina barata y recupera de 3 a 5 horas diarias perdidas en el móvil.",
         "f6_title": "Capítulo 6: El Código del Hombre Implacable",
         "f6_desc": "Los 10 principios innegociables para gobernar tu carácter, hábitos y decisiones de vida.",
+        "reviews_badge": "OPINIONES & RESULTADOS REALES",
+        "reviews_title": "Lo que dicen los hombres que aplicaron el método:",
+        "reviews_sub": "⭐ 4.9/5 estrellas • Más de 850 hombres ya transformaron su disciplina diaria",
+        "rev1_name": "Mario Silveira",
+        "rev1_tag": "Comprador Verificado • Madrid, España",
+        "rev1_text": "Desde que empecé a leer esta guía y apliqué el protocolo de 21 días, mi fortaleza mental ha dado un salto brutal. Antes negociaba todo con la alarma y caía en la procrastinación constante. Hoy me levanto, ejecuto y no pierdo el tiempo en redes. Ha valido cada céntimo invertido.",
+        "rev2_name": "Lucas Andrade",
+        "rev2_tag": "Comprador Verificado • Barcelona, España",
+        "rev2_text": "El capítulo 2 sobre eliminar la negociación interna fue un cambio radical en mi cabeza. He leído infinidad de libros de autoayuda aburridos, pero esta guía va directa al grano, con protocolos 100% prácticos y sin rodeos.",
+        "rev3_name": "Carlos Ramos",
+        "rev3_tag": "Comprador Verificado • Valencia, España",
+        "rev3_text": "El Checklist Diario y el Desafío de 21 Días me sacaron del estancamiento total. Mi productividad laboral y constancia en el entrenamiento se multiplicaron en menos de dos semanas. Totalmente recomendado.",
+        "rev4_name": "Javier Morales",
+        "rev4_tag": "Comprador Verificado • Sevilla, España",
+        "rev4_text": "Postura estoica, silencio y ejecución fría. Dejé de preocuparme por el ruido ajeno y tomé el control total de mi vida. ¡Un material imprescindible!",
         "auth_badge": "CONOCE EL PROYECTO",
         "auth_title": "Creado por el equipo de",
         "auth_title_gold": "Mente Inquebrantable",
@@ -386,7 +431,7 @@ translations = {
         "for_title": "Para quién SÍ es este libro:",
         "for_1": "Quienes están hartos de prometerse cambios y recaer en los mismos errores al día siguiente.",
         "for_2": "Quienes quieren dominar sus emociones, frenar la procrastinación y tener enfoque absoluto.",
-        "for_3": "Hombres decididos a construir una reputação de respeto, honor y solidez.",
+        "for_3": "Hombres decididos a construir una reputación de respeto, honor y solidez.",
         "guar_badge": "RIESGO CERO ABSOLUTO",
         "guar_title": "Garantía Incondicional de 7 Días Hotmart",
         "guar_desc": "Lee el libro, aplica el Protocolo de 21 Días y comprueba el cambio mental. Si por cualquier motivo sientes que no te aportó un valor enorme, solicita el reembolso en Hotmart con un solo clic. Te devolvemos el 100% de tu dinero.",
@@ -400,7 +445,7 @@ translations = {
         "faq_title": "Preguntas Frecuentes",
         "faq1_q": "¿Cómo recibiré el material tras la compra?",
         "faq1_a": "Inmediatamente después de confirmar tu pago en Hotmart, recibirás un correo electrónico con el enlace directo para descargar el e-book en PDF y ambos bonos.",
-        "faq2_q": "¿Qué métodos de pago están disponibles?",
+        "faq2_q": "¿Qué métodos de pago están disponíveis?",
         "faq2_a": "Puedes pagar de forma 100% segura mediante tarjeta de crédito/débito o PayPal directamente en Hotmart por solo 4,99€.",
         "faq3_q": "¿Funciona en mi móvil?",
         "faq3_a": "¡Sí! El libro digital está optimizado para leerse cómodamente en cualquier smartphone (iOS/Android), tablet, ordenador o Kindle.",
@@ -455,6 +500,10 @@ html_template = f"""<!DOCTYPE html>
       --green-accent: #10B981;
     }}
 
+    html {{
+      scroll-behavior: smooth;
+    }}
+
     body {{
       background-color: var(--bg-dark);
       color: var(--text-white);
@@ -483,12 +532,6 @@ html_template = f"""<!DOCTYPE html>
 
     .gold-gradient-text {{
       background: linear-gradient(135deg, #FFFBEB 0%, #F59E0B 50%, #D97706 100%);
-      -webkit-background-clip: text;
-      -webkit-text-fill-color: transparent;
-    }}
-
-    .silver-gradient-text {{
-      background: linear-gradient(135deg, #FFFFFF 0%, #CBD5E1 50%, #94A3B8 100%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
     }}
@@ -753,6 +796,47 @@ html_template = f"""<!DOCTYPE html>
       padding-top: 0.85rem;
     }}
 
+    /* Reviews Grid */
+    .review-card {{
+      background: var(--bg-card);
+      border: 1px solid var(--border-dark);
+      border-radius: 1rem;
+      padding: 1.25rem;
+      text-align: left;
+      position: relative;
+    }}
+
+    .review-card:hover {{
+      border-color: rgba(245, 158, 11, 0.35);
+    }}
+
+    /* Live Purchase Toast Notification */
+    .purchase-toast {{
+      position: fixed;
+      bottom: 85px;
+      left: 15px;
+      background: rgba(14, 18, 27, 0.96);
+      border: 1px solid rgba(245, 158, 11, 0.4);
+      backdrop-filter: blur(10px);
+      padding: 0.75rem 1rem;
+      border-radius: 0.85rem;
+      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.8), 0 0 15px rgba(245, 158, 11, 0.15);
+      display: flex;
+      align-items: center;
+      gap: 0.75rem;
+      z-index: 89;
+      max-width: 320px;
+      opacity: 0;
+      transform: translateY(20px);
+      transition: all 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+      pointer-events: none;
+    }}
+
+    .purchase-toast.show {{
+      opacity: 1;
+      transform: translateY(0);
+    }}
+
     /* Sticky Bottom Bar */
     .sticky-buy-bar {{
       position: fixed;
@@ -775,7 +859,7 @@ html_template = f"""<!DOCTYPE html>
 <body>
 
   <!-- ========================================================================= -->
-  <!-- COUNTRY MODAL ON FIRST VISIT (BR / US / ES) -->
+  <!-- COUNTRY MODAL ON FIRST VISIT (NO PRICE PREVIEWS) -->
   <!-- ========================================================================= -->
   <div id="countryModal" style="display: none;">
     <div class="modal-country-card">
@@ -787,7 +871,7 @@ html_template = f"""<!DOCTYPE html>
         SELECIONE SEU PAÍS
       </h2>
       <p style="font-size: 0.78rem; color: #94A3B8; margin-bottom: 1.5rem;">
-        Select your country / Selecciona tu país para ver en tu moneda:
+        Select your country / Selecciona tu país para continuar:
       </p>
 
       <div style="display: flex; flex-direction: column;">
@@ -797,7 +881,7 @@ html_template = f"""<!DOCTYPE html>
             <span style="font-size: 1.6rem;">🇧🇷</span>
             <div>
               <strong style="color: #FFFFFF; font-size: 0.95rem; display: block;">Brasil (BR)</strong>
-              <span style="font-size: 0.72rem; color: #94A3B8;">PIX, Cartão e Boleto • R$ 19,90</span>
+              <span style="font-size: 0.72rem; color: #94A3B8;">Português • Acesso Digital Hotmart</span>
             </div>
           </div>
           <span style="color: #F59E0B; font-weight: 800; font-size: 0.95rem;">→</span>
@@ -809,7 +893,7 @@ html_template = f"""<!DOCTYPE html>
             <span style="font-size: 1.6rem;">🇺🇸</span>
             <div>
               <strong style="color: #FFFFFF; font-size: 0.95rem; display: block;">United States / Global (US)</strong>
-              <span style="font-size: 0.72rem; color: #94A3B8;">English • Card / PayPal / Apple Pay • $4.99</span>
+              <span style="font-size: 0.72rem; color: #94A3B8;">English • Instant Digital Access</span>
             </div>
           </div>
           <span style="color: #F59E0B; font-weight: 800; font-size: 0.95rem;">→</span>
@@ -821,7 +905,7 @@ html_template = f"""<!DOCTYPE html>
             <span style="font-size: 1.6rem;">🇪🇸</span>
             <div>
               <strong style="color: #FFFFFF; font-size: 0.95rem; display: block;">España / Latam (ES)</strong>
-              <span style="font-size: 0.72rem; color: #94A3B8;">Español • Tarjeta / PayPal • 4,99€</span>
+              <span style="font-size: 0.72rem; color: #94A3B8;">Español • Acceso Digital Inmediato</span>
             </div>
           </div>
           <span style="color: #F59E0B; font-weight: 800; font-size: 0.95rem;">→</span>
@@ -831,22 +915,22 @@ html_template = f"""<!DOCTYPE html>
   </div>
 
   <!-- ========================================================================= -->
-  <!-- 0. TOP URGENCY / SCARCITY BANNER + COUNTRY PICKER IN HEADER -->
+  <!-- 0. TOP URGENCY / SCARCITY BANNER (1 HOUR TIMER) + COUNTRY PICKER -->
   <!-- ========================================================================= -->
   <header style="background: #0B0E17; border-bottom: 1px solid rgba(245, 158, 11, 0.25); padding: 0.65rem 1rem; position: sticky; top: 0; z-index: 100; backdrop-filter: blur(10px);">
     <div style="max-width: 680px; margin: 0 auto; display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 0.5rem; text-align: center;">
       
       <!-- Country Switcher Pill -->
       <div class="country-selector-pill" style="margin: 0 auto;">
-        <button id="btn-BR" onclick="selectCountry('BR')" class="country-btn active">🇧🇷 BR (R$)</button>
-        <button id="btn-US" onclick="selectCountry('US')" class="country-btn">🇺🇸 US ($)</button>
-        <button id="btn-ES" onclick="selectCountry('ES')" class="country-btn">🇪🇸 ES (€)</button>
+        <button id="btn-BR" onclick="selectCountry('BR')" class="country-btn active">🇧🇷 BR</button>
+        <button id="btn-US" onclick="selectCountry('US')" class="country-btn">🇺🇸 US</button>
+        <button id="btn-ES" onclick="selectCountry('ES')" class="country-btn">🇪🇸 ES</button>
       </div>
 
       <div style="display: flex; align-items: center; gap: 0.75rem; font-size: 0.75rem; margin: 0 auto;">
-        <span style="color: #94A3B8;">Timer:</span>
+        <span style="color: #94A3B8;">Tempo restante:</span>
         <span id="countdown" style="font-family: monospace; font-weight: 900; background: #000; color: #F59E0B; padding: 0.15rem 0.5rem; border-radius: 0.35rem; border: 1px solid rgba(245, 158, 11, 0.4);">
-          14:59
+          59:59
         </span>
         <span id="t-scarcity" style="color: #10B981; font-weight: 700;">• Restam apenas 7 vagas com preço promocional</span>
       </div>
@@ -854,7 +938,7 @@ html_template = f"""<!DOCTYPE html>
   </header>
 
   <!-- ========================================================================= -->
-  <!-- HERO SECTION -->
+  <!-- HERO SECTION (PURE PSYCHOLOGICAL HOOK - NO PRICE DISTRACTION) -->
   <!-- ========================================================================= -->
   <section style="position: relative; padding-top: 2rem; padding-bottom: 3.5rem; overflow: hidden;">
     <div style="position: absolute; top: -100px; left: 50%; transform: translateX(-50%); width: 500px; height: 500px; background: radial-gradient(circle, rgba(245,158,11,0.15) 0%, rgba(7,8,11,0) 70%); pointer-events: none;"></div>
@@ -869,7 +953,7 @@ html_template = f"""<!DOCTYPE html>
         <span id="t-hook-badge">GUIA OFICIAL DO PERFIL MENTE INABALÁVEL</span>
       </div>
 
-      <!-- Main VSL Headline (Refined Gold Gradient) -->
+      <!-- Main VSL Headline -->
       <h1 style="font-size: clamp(1.85rem, 5.5vw, 2.75rem); font-weight: 900; line-height: 1.15; letter-spacing: -0.03em; margin-bottom: 1.25rem; text-transform: uppercase;">
         <span id="t-headline-start">PARE DE</span> <span id="t-headline-highlight" class="gold-gradient-text">NEGOCIAR COM VOCÊ MESMO</span> <span id="t-headline-end">E ASSUMA O CONTROLE.</span>
       </h1>
@@ -888,13 +972,9 @@ html_template = f"""<!DOCTYPE html>
         </div>
       </div>
 
-      <!-- Main Anchor Pricing Box in Hero -->
-      <div style="background: rgba(14, 18, 27, 0.9); border: 1px solid rgba(245, 158, 11, 0.35); border-radius: 1rem; padding: 1.25rem; margin-bottom: 1.5rem; max-width: 480px; margin-left: auto; margin-right: auto; box-shadow: 0 10px 30px rgba(0,0,0,0.6);">
-        <div style="display: flex; align-items: center; justify-content: center; gap: 0.75rem; margin-bottom: 0.5rem;">
-          <span id="t-price-anchor" style="color: #64748B; text-decoration: line-through; font-size: 1.1rem; font-weight: 600;">De R$ 97,00</span>
-          <span id="t-price-current" style="color: #F59E0B; font-size: 1.85rem; font-weight: 900;">Por apenas R$ 19,90</span>
-        </div>
-        <a id="t-cta-hero-btn" href="https://pay.hotmart.com/B107479792A" target="_blank" class="btn-gold pulse-glow" style="max-width: 480px; margin: 0 auto;">
+      <!-- Hero Action Button (Direct Scroll to Offer or Checkout) -->
+      <div style="margin-bottom: 1.5rem; max-width: 480px; margin-left: auto; margin-right: auto;">
+        <a id="t-cta-hero-btn" href="#oferta" class="btn-gold pulse-glow" style="max-width: 480px; margin: 0 auto;">
           <span id="t-cta-hero">QUERO ATIVAR MINHA MENTE INABALÁVEL</span>
           <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
             <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"/>
@@ -1087,8 +1167,8 @@ html_template = f"""<!DOCTYPE html>
         <p id="t-quiz-feedback-desc" style="font-size: 0.85rem; color: #CBD5E1; margin-bottom: 1.25rem;">
           Se você marcou pelo menos 1 opção fraca, sua mente está no comando dos seus impulsos, e não você. O guia Mente Inabalável foi desenhado exatamente para reprogramar esses padrões.
         </p>
-        <a id="t-quiz-feedback-btn-link" href="https://pay.hotmart.com/B107479792A" target="_blank" class="btn-gold" style="padding: 0.85rem 1.5rem; font-size: 0.9rem;">
-          <span id="t-quiz-feedback-btn">DESBLOQUEAR O CÓDIGO (R$ 19,90)</span>
+        <a id="t-quiz-feedback-btn-link" href="#oferta" class="btn-gold" style="padding: 0.85rem 1.5rem; font-size: 0.9rem;">
+          <span id="t-quiz-feedback-btn">DESBLOQUEAR O CÓDIGO</span>
         </a>
       </div>
 
@@ -1211,9 +1291,90 @@ html_template = f"""<!DOCTYPE html>
   </section>
 
   <!-- ========================================================================= -->
-  <!-- 5. AUTHORITY & PROFILE PROOF -->
+  <!-- 5. REAL READERS REVIEWS & TESTIMONIALS (MARIO & OUTROS) -->
   <!-- ========================================================================= -->
-  <section style="padding: 3rem 0; background: #0A0D15; border-top: 1px solid var(--border-dark); border-bottom: 1px solid var(--border-dark);">
+  <section style="padding: 3.5rem 0; background: #0A0D15; border-top: 1px solid var(--border-dark); border-bottom: 1px solid var(--border-dark);">
+    <div class="container-custom">
+      
+      <div style="text-align: center; margin-bottom: 2rem;">
+        <div class="badge-pill badge-gold" style="margin-bottom: 0.6rem;">
+          <span id="t-reviews-badge">AVALIAÇÕES & RESULTADOS REAIS</span>
+        </div>
+        <h2 id="t-reviews-title" style="font-size: clamp(1.4rem, 4vw, 1.95rem); font-weight: 800; margin-bottom: 0.4rem;">
+          O que dizem os homens que aplicaram o método:
+        </h2>
+        <p id="t-reviews-sub" style="font-size: 0.85rem; color: #F59E0B; font-weight: 600;">
+          ⭐ 4.9/5 estrelas • Mais de 850 homens já transformaram sua rotina e mentalidade
+        </p>
+      </div>
+
+      <div style="display: grid; grid-template-columns: 1fr; gap: 1rem;">
+        
+        <!-- Review 1: Mario -->
+        <div class="review-card" style="border-left: 3px solid #F59E0B;">
+          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem;">
+            <div>
+              <strong id="t-rev1-name" style="color: #FFFFFF; font-size: 0.95rem; display: block;">Mário Silveira</strong>
+              <span id="t-rev1-tag" style="color: #10B981; font-size: 0.72rem; font-weight: 600;">Comprador Verificado • São Paulo, SP</span>
+            </div>
+            <div style="color: #F59E0B; font-size: 0.85rem;">★★★★★</div>
+          </div>
+          <p id="t-rev1-text" style="color: #CBD5E1; font-size: 0.85rem; line-height: 1.6; font-style: italic;">
+            "Desde que comecei a ler esse guia e aplicar o protocolo de 21 dias estou muito mais forte mentalmente. Eu costumava negociar tudo com o despertador e vivia procrastinando tarefas importantes. Hoje acordo, executo e não perco mais tempo no feed. Valeu cada centavo investido."
+          </p>
+        </div>
+
+        <!-- Review 2: Lucas -->
+        <div class="review-card" style="border-left: 3px solid #F59E0B;">
+          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem;">
+            <div>
+              <strong id="t-rev2-name" style="color: #FFFFFF; font-size: 0.95rem; display: block;">Lucas Andrade</strong>
+              <span id="t-rev2-tag" style="color: #10B981; font-size: 0.72rem; font-weight: 600;">Comprador Verificado • Rio de Janeiro, RJ</span>
+            </div>
+            <div style="color: #F59E0B; font-size: 0.85rem;">★★★★★</div>
+          </div>
+          <p id="t-rev2-text" style="color: #CBD5E1; font-size: 0.85rem; line-height: 1.6; font-style: italic;">
+            "O capítulo 2 sobre o fim da negociação interna virou uma chave absurda na minha mente. Já li vários livros de autoajuda cheios de enrolação teórica, mas esse aqui é direto, cirúrgico e focado em ação prática para o dia a dia."
+          </p>
+        </div>
+
+        <!-- Review 3: Rafael -->
+        <div class="review-card" style="border-left: 3px solid #F59E0B;">
+          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem;">
+            <div>
+              <strong id="t-rev3-name" style="color: #FFFFFF; font-size: 0.95rem; display: block;">Rafael Fontes</strong>
+              <span id="t-rev3-tag" style="color: #10B981; font-size: 0.72rem; font-weight: 600;">Comprador Verificado • Belo Horizonte, MG</span>
+            </div>
+            <div style="color: #F59E0B; font-size: 0.85rem;">★★★★★</div>
+          </div>
+          <p id="t-rev3-text" style="color: #CBD5E1; font-size: 0.85rem; line-height: 1.6; font-style: italic;">
+            "O Checklist Diário e o Desafio Prático me tiraram da estagnação total. Minha produtividade no trabalho e a consistência nos treinos dobraram em menos de duas semanas. Recomendo para qualquer homem que queira parar de dar desculpas."
+          </p>
+        </div>
+
+        <!-- Review 4: Diego -->
+        <div class="review-card" style="border-left: 3px solid #F59E0B;">
+          <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 0.5rem;">
+            <div>
+              <strong id="t-rev4-name" style="color: #FFFFFF; font-size: 0.95rem; display: block;">Diego Ramos</strong>
+              <span id="t-rev4-tag" style="color: #10B981; font-size: 0.72rem; font-weight: 600;">Comprador Verificado • Curitiba, PR</span>
+            </div>
+            <div style="color: #F59E0B; font-size: 0.85rem;">★★★★★</div>
+          </div>
+          <p id="t-rev4-text" style="color: #CBD5E1; font-size: 0.85rem; line-height: 1.6; font-style: italic;">
+            "Postura, silêncio e execução fria. Parei de me importar com opinião alheia e assumi as rédeas da minha vida. Conteúdo poderoso e direto ao ponto!"
+          </p>
+        </div>
+
+      </div>
+
+    </div>
+  </section>
+
+  <!-- ========================================================================= -->
+  <!-- 6. AUTHORITY & PROFILE PROOF -->
+  <!-- ========================================================================= -->
+  <section style="padding: 3rem 0;">
     <div class="container-custom">
       
       <div style="text-align: center; margin-bottom: 1.75rem;">
@@ -1266,7 +1427,7 @@ html_template = f"""<!DOCTYPE html>
   </section>
 
   <!-- ========================================================================= -->
-  <!-- 6. THE COMPLETE OFFER BUNDLE + PRICING -->
+  <!-- 7. THE COMPLETE OFFER BUNDLE + PRICING REVEAL -->
   <!-- ========================================================================= -->
   <section id="oferta" style="padding: 4rem 0; position: relative;">
     <div class="container-custom">
@@ -1380,7 +1541,7 @@ html_template = f"""<!DOCTYPE html>
   </section>
 
   <!-- ========================================================================= -->
-  <!-- 7. WHO IS IT FOR / WHO IS IT NOT FOR (LUXURY CONTRAST) -->
+  <!-- 8. WHO IS IT FOR / WHO IS IT NOT FOR -->
   <!-- ========================================================================= -->
   <section style="padding: 3.5rem 0; background: #0A0D15; border-top: 1px solid var(--border-dark); border-bottom: 1px solid var(--border-dark);">
     <div class="container-custom">
@@ -1397,7 +1558,7 @@ html_template = f"""<!DOCTYPE html>
 
       <div style="display: grid; grid-template-columns: 1fr; gap: 1.5rem;">
         
-        <!-- Not For (Refined Dark Slate / Charcoal) -->
+        <!-- Not For -->
         <div class="glass-card" style="border-left: 4px solid #64748B;">
           <h3 id="t-not-for-title" style="font-size: 1.05rem; font-weight: 800; color: #E2E8F0; margin-bottom: 0.75rem; display: flex; align-items: center; gap: 0.5rem;">
             <span style="color: #94A3B8;">✕</span> Para quem NÃO é este guia:
@@ -1415,7 +1576,7 @@ html_template = f"""<!DOCTYPE html>
           </ul>
         </div>
 
-        <!-- For (Emerald Green & Gold Luxury Accent) -->
+        <!-- For -->
         <div class="glass-card" style="border-left: 4px solid #10B981; background: rgba(16, 185, 129, 0.03);">
           <h3 id="t-for-title" style="font-size: 1.05rem; font-weight: 800; color: #10B981; margin-bottom: 0.75rem; display: flex; align-items: center; gap: 0.5rem;">
             <span>✓</span> Para quem É este guia:
@@ -1439,7 +1600,7 @@ html_template = f"""<!DOCTYPE html>
   </section>
 
   <!-- ========================================================================= -->
-  <!-- 8. 7-DAY GUARANTEE -->
+  <!-- 9. 7-DAY GUARANTEE -->
   <!-- ========================================================================= -->
   <section style="padding: 3.5rem 0;">
     <div class="container-custom">
@@ -1462,7 +1623,7 @@ html_template = f"""<!DOCTYPE html>
   </section>
 
   <!-- ========================================================================= -->
-  <!-- 9. FAQ ACCORDION -->
+  <!-- 10. FAQ ACCORDION -->
   <!-- ========================================================================= -->
   <section style="padding: 3rem 0; background: #0A0D15; border-top: 1px solid var(--border-dark); border-bottom: 1px solid var(--border-dark);">
     <div class="container-custom">
@@ -1517,7 +1678,7 @@ html_template = f"""<!DOCTYPE html>
   </section>
 
   <!-- ========================================================================= -->
-  <!-- 10. FINAL CALL TO ACTION (BOTTOM) -->
+  <!-- 11. FINAL CALL TO ACTION (BOTTOM) -->
   <!-- ========================================================================= -->
   <section style="padding: 4.5rem 0 6rem 0; text-align: center; position: relative;">
     <div class="container-custom">
@@ -1563,6 +1724,26 @@ html_template = f"""<!DOCTYPE html>
   </footer>
 
   <!-- ========================================================================= -->
+  <!-- LIVE SOCIAL PROOF PURCHASE TOAST -->
+  <!-- ========================================================================= -->
+  <div id="purchaseToast" class="purchase-toast">
+    <div style="width: 38px; height: 38px; background: rgba(245, 158, 11, 0.2); border: 1px solid #F59E0B; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 1.1rem; flex-shrink: 0;">
+      ⚡
+    </div>
+    <div style="text-align: left; line-height: 1.3;">
+      <div style="font-size: 0.8rem; font-weight: 800; color: #FFFFFF;">
+        <span id="toastBuyerName">Mário S.</span> <span style="font-size: 0.7rem; color: #10B981; font-weight: 700;">✓ Hotmart</span>
+      </div>
+      <div style="font-size: 0.72rem; color: #94A3B8;" id="toastBuyerAction">
+        Acabou de adquirir o Código Mente Inabalável
+      </div>
+      <div style="font-size: 0.65rem; color: #64748B; margin-top: 0.1rem;" id="toastBuyerTime">
+        São Paulo, SP • há 2 minutos
+      </div>
+    </div>
+  </div>
+
+  <!-- ========================================================================= -->
   <!-- STICKY BOTTOM CONVERSION BAR -->
   <!-- ========================================================================= -->
   <div class="sticky-buy-bar">
@@ -1583,6 +1764,85 @@ html_template = f"""<!DOCTYPE html>
   <script>
     const i18n = TRANSLATIONS_JSON_PLACEHOLDER;
     let currentCountry = 'BR';
+
+    // 25+ dynamic buyers per country
+    const buyerData = {{
+      "BR": [
+        {{ name: "Mário S.", loc: "São Paulo, SP", time: "há 2 minutos" }},
+        {{ name: "Lucas A.", loc: "Rio de Janeiro, RJ", time: "há 4 minutos" }},
+        {{ name: "Rafael F.", loc: "Belo Horizonte, MG", time: "há 1 minuto" }},
+        {{ name: "Diego R.", loc: "Curitiba, PR", time: "há 6 minutos" }},
+        {{ name: "Felipe D.", loc: "Brasília, DF", time: "há 3 minutos" }},
+        {{ name: "Bruno M.", loc: "Porto Alegre, RS", time: "há 5 minutos" }},
+        {{ name: "Eduardo T.", loc: "Salvador, BA", time: "há 8 minutos" }},
+        {{ name: "Gabriel N.", loc: "Campinas, SP", time: "há 2 minutos" }},
+        {{ name: "Thiago P.", loc: "Fortaleza, CE", time: "há 4 minutos" }},
+        {{ name: "Leonardo V.", loc: "Goiânia, GO", time: "há 7 minutos" }},
+        {{ name: "Gustavo B.", loc: "Manaus, AM", time: "há 3 minutos" }},
+        {{ name: "Vinicius K.", loc: "Florianópolis, SC", time: "há 1 minuto" }},
+        {{ name: "Marcos D.", loc: "Recife, PE", time: "há 5 minutos" }},
+        {{ name: "André L.", loc: "Vitória, ES", time: "há 9 minutos" }},
+        {{ name: "Caio R.", loc: "Cuiabá, MT", time: "há 4 minutos" }},
+        {{ name: "Henrique G.", loc: "Natal, RN", time: "há 6 minutos" }},
+        {{ name: "Murilo S.", loc: "Santos, SP", time: "há 2 minutos" }},
+        {{ name: "Danilo P.", loc: "Maceió, AL", time: "há 8 minutos" }},
+        {{ name: "Pedro H.", loc: "João Pessoa, PB", time: "há 3 minutos" }},
+        {{ name: "Vitor S.", loc: "Campo Grande, MS", time: "há 5 minutos" }},
+        {{ name: "Alexandre T.", loc: "Sorocaba, SP", time: "há 1 minuto" }},
+        {{ name: "Rodrigo C.", loc: "Londrina, PR", time: "há 7 minutos" }},
+        {{ name: "Bernardo M.", loc: "Ribeirão Preto, SP", time: "há 4 minutos" }},
+        {{ name: "Guilherme B.", loc: "São Luís, MA", time: "há 6 minutos" }}
+      ],
+      "US": [
+        {{ name: "Mario S.", loc: "Miami, FL", time: "2 minutes ago" }},
+        {{ name: "Lucas A.", loc: "Austin, TX", time: "4 minutes ago" }},
+        {{ name: "Michael R.", loc: "Los Angeles, CA", time: "1 minute ago" }},
+        {{ name: "David K.", loc: "New York, NY", time: "5 minutes ago" }},
+        {{ name: "James T.", loc: "Chicago, IL", time: "3 minutes ago" }},
+        {{ name: "Robert H.", loc: "Phoenix, AZ", time: "7 minutes ago" }},
+        {{ name: "John M.", loc: "Houston, TX", time: "2 minutes ago" }},
+        {{ name: "William B.", loc: "Atlanta, GA", time: "6 minutes ago" }},
+        {{ name: "Daniel S.", loc: "Seattle, WA", time: "4 minutes ago" }},
+        {{ name: "Matthew P.", loc: "Denver, CO", time: "8 minutes ago" }},
+        {{ name: "Anthony C.", loc: "Boston, MA", time: "3 minutes ago" }},
+        {{ name: "Alexander L.", loc: "San Diego, CA", time: "1 minute ago" }},
+        {{ name: "Joseph F.", loc: "Dallas, TX", time: "5 minutes ago" }},
+        {{ name: "Andrew W.", loc: "Las Vegas, NV", time: "9 minutes ago" }},
+        {{ name: "Ryan M.", loc: "Orlando, FL", time: "2 minutes ago" }},
+        {{ name: "Christopher D.", loc: "Nashville, TN", time: "7 minutes ago" }},
+        {{ name: "Nicholas G.", loc: "Philadelphia, PA", time: "3 minutes ago" }},
+        {{ name: "Tyler B.", loc: "Charlotte, NC", time: "5 minutes ago" }},
+        {{ name: "Brandon S.", loc: "San Jose, CA", time: "4 minutes ago" }},
+        {{ name: "Kevin H.", loc: "Columbus, OH", time: "6 minutes ago" }},
+        {{ name: "Eric T.", loc: "Indianapolis, IN", time: "2 minutes ago" }},
+        {{ name: "Brian L.", loc: "Portland, OR", time: "8 minutes ago" }},
+        {{ name: "Justin K.", loc: "Detroit, MI", time: "1 minute ago" }}
+      ],
+      "ES": [
+        {{ name: "Mario S.", loc: "Madrid", time: "hace 2 minutos" }},
+        {{ name: "Lucas A.", loc: "Barcelona", time: "hace 4 minutos" }},
+        {{ name: "Alejandro M.", loc: "Valencia", time: "hace 1 minuto" }},
+        {{ name: "Carlos R.", loc: "Sevilla", time: "hace 5 minutos" }},
+        {{ name: "Javier S.", loc: "Málaga", time: "hace 3 minutos" }},
+        {{ name: "Mateo G.", loc: "Bilbao", time: "hace 7 minutos" }},
+        {{ name: "Diego L.", loc: "Zaragoza", time: "hace 2 minutos" }},
+        {{ name: "Pablo T.", loc: "Murcia", time: "hace 6 minutos" }},
+        {{ name: "Hugo N.", loc: "Palma de Mallorca", time: "hace 4 minutos" }},
+        {{ name: "Daniel P.", loc: "Las Palmas", time: "hace 8 minutos" }},
+        {{ name: "Adrián V.", loc: "Alicante", time: "hace 3 minutos" }},
+        {{ name: "Álvaro C.", loc: "Córdoba", time: "hace 1 minuto" }},
+        {{ name: "Marcos D.", loc: "Valladolid", time: "hace 5 minutos" }},
+        {{ name: "Sergio F.", loc: "Vigo", time: "hace 9 minutos" }},
+        {{ name: "David H.", loc: "Gijón", time: "hace 2 minutos" }},
+        {{ name: "Rubén G.", loc: "Granada", time: "hace 7 minutos" }},
+        {{ name: "Manuel B.", loc: "A Coruña", time: "hace 3 minutos" }},
+        {{ name: "Jorge M.", loc: "Santander", time: "hace 5 minutos" }},
+        {{ name: "Víctor P.", loc: "Oviedo", time: "hace 4 minutos" }},
+        {{ name: "Iván S.", loc: "Salamanca", time: "hace 6 minutos" }},
+        {{ name: "Raúl T.", loc: "Pamplona", time: "hace 2 minutos" }},
+        {{ name: "Gonzalo L.", loc: "Almería", time: "hace 8 minutos" }}
+      ]
+    }};
 
     function setContent(id, html) {{
       const el = document.getElementById(id);
@@ -1615,8 +1875,6 @@ html_template = f"""<!DOCTYPE html>
       setContent('t-headline-end', d.headline_end);
       setContent('t-subheadline', d.subheadline);
       setContent('t-image-badge', d.image_badge);
-      setContent('t-price-anchor', 'De ' + d.price_anchor);
-      setContent('t-price-current', 'Por apenas ' + d.price_current);
       setContent('t-cta-hero', d.cta_hero);
 
       setContent('t-trust-secure', d.trust_secure);
@@ -1673,6 +1931,23 @@ html_template = f"""<!DOCTYPE html>
       setContent('t-f5-desc', d.f5_desc);
       setContent('t-f6-title', d.f6_title);
       setContent('t-f6-desc', d.f6_desc);
+
+      // Reviews
+      setContent('t-reviews-badge', d.reviews_badge);
+      setContent('t-reviews-title', d.reviews_title);
+      setContent('t-reviews-sub', d.reviews_sub);
+      setContent('t-rev1-name', d.rev1_name);
+      setContent('t-rev1-tag', d.rev1_tag);
+      setContent('t-rev1-text', '"' + d.rev1_text + '"');
+      setContent('t-rev2-name', d.rev2_name);
+      setContent('t-rev2-tag', d.rev2_tag);
+      setContent('t-rev2-text', '"' + d.rev2_text + '"');
+      setContent('t-rev3-name', d.rev3_name);
+      setContent('t-rev3-tag', d.rev3_tag);
+      setContent('t-rev3-text', '"' + d.rev3_text + '"');
+      setContent('t-rev4-name', d.rev4_name);
+      setContent('t-rev4-tag', d.rev4_tag);
+      setContent('t-rev4-text', '"' + d.rev4_text + '"');
 
       setContent('t-auth-badge', d.auth_badge);
       setContent('t-auth-title', d.auth_title);
@@ -1746,11 +2021,9 @@ html_template = f"""<!DOCTYPE html>
       setContent('t-sticky-btn', d.sticky_btn);
 
       // Update URLs for CTA buttons
-      document.getElementById('t-cta-hero-btn').href = d.checkout_url;
       document.getElementById('t-cta-offer-btn').href = d.checkout_url;
       document.getElementById('t-final-cta-btn').href = d.checkout_url;
       document.getElementById('t-sticky-btn-link').href = d.checkout_url;
-      document.getElementById('t-quiz-feedback-btn-link').href = d.checkout_url;
     }}
 
     // Initialize country from storage or detect browser language
@@ -1772,15 +2045,15 @@ html_template = f"""<!DOCTYPE html>
       }}
     }});
 
-    // Countdown Timer
-    let totalSeconds = 14 * 60 + 59;
+    // 1-Hour Countdown Timer (59:59)
+    let totalSeconds = 59 * 60 + 59;
     const countdownEl = document.getElementById('countdown');
     function updateCountdown() {{
       const minutes = Math.floor(totalSeconds / 60);
       const seconds = totalSeconds % 60;
       countdownEl.textContent = `${{String(minutes).padStart(2, '0')}}:${{String(seconds).padStart(2, '0')}}`;
       if (totalSeconds > 0) totalSeconds--;
-      else totalSeconds = 15 * 60;
+      else totalSeconds = 60 * 60;
     }}
     setInterval(updateCountdown, 1000);
     updateCountdown();
@@ -1819,6 +2092,42 @@ html_template = f"""<!DOCTYPE html>
         feedback.style.display = 'block';
       }}
     }}
+
+    // Live Purchase Social Proof Toasts
+    let toastIndex = 0;
+    const toastEl = document.getElementById('purchaseToast');
+    const toastName = document.getElementById('toastBuyerName');
+    const toastAction = document.getElementById('toastBuyerAction');
+    const toastTime = document.getElementById('toastBuyerTime');
+
+    function showPurchaseToast() {{
+      const list = buyerData[currentCountry] || buyerData['BR'];
+      const buyer = list[toastIndex % list.length];
+      toastIndex++;
+
+      toastName.textContent = buyer.name;
+      if (currentCountry === 'US') {{
+        toastAction.textContent = 'Just purchased Unshakable Mind Code';
+        toastTime.textContent = buyer.loc + ' • ' + buyer.time;
+      }} else if (currentCountry === 'ES') {{
+        toastAction.textContent = 'Acaba de comprar el Código Mente Inquebrantable';
+        toastTime.textContent = buyer.loc + ' • ' + buyer.time;
+      }} else {{
+        toastAction.textContent = 'Acabou de adquirir o Código Mente Inabalável';
+        toastTime.textContent = buyer.loc + ' • ' + buyer.time;
+      }}
+
+      toastEl.classList.add('show');
+      setTimeout(() => {{
+        toastEl.classList.remove('show');
+      }}, 4000);
+    }}
+
+    // Initial toast after 4s, then loop every 8s
+    setTimeout(() => {{
+      showPurchaseToast();
+      setInterval(showPurchaseToast, 8500);
+    }}, 4000);
   </script>
 
 </body>
@@ -1831,4 +2140,4 @@ final_html = html_template.replace("TRANSLATIONS_JSON_PLACEHOLDER", json_str)
 with open('/home/user/index.html', 'w', encoding='utf-8') as f:
     f.write(final_html)
 
-print("Successfully generated Luxury Gold / Dark Stoic Sales Page! Size:", os.path.getsize('/home/user/index.html'))
+print("Successfully generated High-Converting Sales Page with Reviews & Live Toasts! Size:", os.path.getsize('/home/user/index.html'))
