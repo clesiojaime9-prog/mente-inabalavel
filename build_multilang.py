@@ -18,7 +18,7 @@ translations = {
         "currency_symbol": "R$",
         "price_anchor": "R$ 97,00",
         "price_total": "R$ 147,00",
-        "price_current": "R$ 19,90",
+        "price_current": "R$ 27,00",
         "price_ebook": "R$ 67,00",
         "price_b1": "R$ 40,00",
         "price_b2": "R$ 40,00",
@@ -68,7 +68,7 @@ translations = {
         "q3_strong": "Ativo o modo caverna até a missão estar 100% cumprida",
         "quiz_feedback_title": "⚠️ DIAGNÓSTICO: Você está operando com vazamento de disciplina.",
         "quiz_feedback_desc": "Se você marcou pelo menos 1 opção fraca, sua mente está no comando dos seus impulsos, e não você. O guia Mente Inabalável foi desenhado exatamente para reprogramar esses padrões.",
-        "quiz_feedback_btn": "DESBLOQUEAR O CÓDIGO (R$ 19,90)",
+        "quiz_feedback_btn": "DESBLOQUEAR O CÓDIGO (R$ 27,00)",
         "features_badge": "CONTEÚDO PROGRAMÁTICO COMPLETO",
         "features_title": "O que você vai dominar dentro do livro:",
         "features_desc": "Um roteiro direto ao ponto, sem enrolação teórica ou clichês vazios de autoajuda.",
@@ -124,7 +124,7 @@ translations = {
         "total_val_label": "Valor Total de Mercado:",
         "promo_price_label": "Valor Promocional de Lançamento:",
         "payment_type_label": "Pagamento único • Acesso vitalício • Sem mensalidades",
-        "cta_offer": "ATIVAR MEU CÓDIGO AGORA (R$ 19,90)",
+        "cta_offer": "ATIVAR MEU CÓDIGO AGORA (R$ 27,00)",
         "secure_proc": "🔒 Processamento Oficial Seguro via Hotmart • Acesso Imediato",
         "compat_title": "📱 Formato 100% Digital e Acessível",
         "compat_desc": "Receba o material instantaneamente no seu e-mail após a aprovação da compra na Hotmart. Leia no smartphone (iOS/Android), tablet, Kindle ou computador. O arquivo é seu para sempre.",
@@ -142,7 +142,7 @@ translations = {
         "guar_bold": "Sem perguntas, sem burocracia e sem ressentimentos. O risco é todo meu.",
         "final_title": "A decisão que define o seu futuro",
         "final_title_gold": "é tomada AGORA.",
-        "final_desc": "Enquanto você adia, a sua vida passa. Você pode continuar no mesmo ciclo de desculpas, ou investir <strong style='color:#F59E0B'>R$ 19,90</strong> agora na Hotmart e ativar o código que vai blindar a sua mente.",
+        "final_desc": "Enquanto você adia, a sua vida passa. Você pode continuar no mesmo ciclo de desculpas, ou investir <strong style='color:#F59E0B'>R$ 27,00</strong> agora na Hotmart e ativar o código que vai blindar a sua mente.",
         "final_cta": "SIM! QUERO SER UM HOMEM INABALÁVEL",
         "final_urgency": "⚡ Oferta por tempo limitado. O valor pode retornar para R$ 97,00 a qualquer momento.",
         "faq_badge": "TIRE SUAS DÚVIDAS",
@@ -150,14 +150,14 @@ translations = {
         "faq1_q": "Como vou receber o material após a compra?",
         "faq1_a": "Assim que a compra for confirmada pela Hotmart (instantâneo no PIX e Cartão), você receberá um e-mail com o link direto para download do e-book em PDF de alta resolução e de todos os bônus inclusos.",
         "faq2_q": "Quais são as formas de pagamento disponíveis?",
-        "faq2_a": "Você pode pagar com total segurança e garantia via PIX (aprovação imediata), Cartão de Crédito ou Boleto bancário diretamente na Hotmart por apenas R$ 19,90.",
+        "faq2_a": "Você pode pagar com total segurança e garantia via PIX (aprovação imediata), Cartão de Crédito ou Boleto bancário diretamente na Hotmart por apenas R$ 27,00.",
         "faq3_q": "O e-book funciona no meu celular?",
         "faq3_a": "Sim! O livro digital foi diagramado e otimizado para leitura fluida tanto em celulares (iOS/Android) quanto em tablets, computadores e leitores digitais como Kindle.",
         "faq4_q": "E se eu não gostar do conteúdo?",
         "faq4_a": "Você está 100% protegido pela garantia incondicional de 7 dias da Hotmart. Basta pedir reembolso na plataforma e seu investimento será devolvido integralmente.",
         "faq5_q": "Eu terei que pagar mensalidade?",
-        "faq5_a": "Não! O pagamento de R$ 19,90 é único e o acesso ao material é vitalício.",
-        "sticky_btn": "COMPRAR NA HOTMART (R$ 19,90)"
+        "faq5_a": "Não! O pagamento de R$ 27,00 é único e o acesso ao material é vitalício.",
+        "sticky_btn": "COMPRAR NA HOTMART (R$ 27,00)"
     },
     "US": {
         "lang_code": "en-US",
@@ -1513,7 +1513,7 @@ html_template = f"""<!DOCTYPE html>
           </p>
           <div style="margin-bottom: 0.5rem;">
             <span id="t-promo-price-label" style="font-size: 0.9rem; color: #CBD5E1; display: block;">Valor Promocional de Lançamento:</span>
-            <span id="t-price-big" style="font-size: 2.85rem; font-weight: 900; color: #F59E0B; line-height: 1;">R$ 19,90</span>
+            <span id="t-price-big" style="font-size: 2.85rem; font-weight: 900; color: #F59E0B; line-height: 1;">R$ 27,00</span>
           </div>
           <p id="t-payment-type-label" style="font-size: 0.75rem; color: #10B981; font-weight: 600;">
             Pagamento único • Acesso vitalício • Sem mensalidades
@@ -1522,7 +1522,7 @@ html_template = f"""<!DOCTYPE html>
 
         <!-- Hotmart Official CTA Button -->
         <a id="t-cta-offer-btn" href="https://pay.hotmart.com/B107479792A" target="_blank" class="btn-gold pulse-glow" style="margin-bottom: 0.75rem;">
-          <span id="t-cta-offer">ATIVAR MEU CÓDIGO AGORA (R$ 19,90)</span>
+          <span id="t-cta-offer">ATIVAR MEU CÓDIGO AGORA (R$ 27,00)</span>
           <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
             <path fill-rule="evenodd" d="M10.293 3.293a1 1 0 011.414 0l6 6a1 1 0 010 1.414l-6 6a1 1 0 01-1.414-1.414L14.586 11H3a1 1 0 110-2h11.586l-4.293-4.293a1 1 0 010-1.414z" clip-rule="evenodd"/>
           </svg>
@@ -1648,7 +1648,7 @@ html_template = f"""<!DOCTYPE html>
         <details>
           <summary id="t-faq2-q">Quais são as formas de pagamento disponíveis?</summary>
           <div id="t-faq2-a" class="faq-answer">
-            Você pode pagar com total segurança e garantia via PIX (aprovação imediata), Cartão de Crédito ou Boleto bancário diretamente na Hotmart por apenas R$ 19,90.
+            Você pode pagar com total segurança e garantia via PIX (aprovação imediata), Cartão de Crédito ou Boleto bancário diretamente na Hotmart por apenas R$ 27,00.
           </div>
         </details>
 
@@ -1669,7 +1669,7 @@ html_template = f"""<!DOCTYPE html>
         <details>
           <summary id="t-faq5-q">Eu terei que pagar mensalidade?</summary>
           <div id="t-faq5-a" class="faq-answer">
-            Não! O pagamento de R$ 19,90 é único e o acesso ao material é vitalício.
+            Não! O pagamento de R$ 27,00 é único e o acesso ao material é vitalício.
           </div>
         </details>
       </div>
@@ -1689,7 +1689,7 @@ html_template = f"""<!DOCTYPE html>
       </h2>
       
       <p id="t-final-desc" style="font-size: 0.95rem; color: var(--text-gray); max-width: 540px; margin: 0 auto 2rem auto; line-height: 1.6;">
-        Enquanto você adia, a sua vida passa. Você pode continuar no mesmo ciclo de desculpas, ou investir <strong style='color:#F59E0B'>R$ 19,90</strong> agora na Hotmart e ativar o código que vai blindar a sua mente.
+        Enquanto você adia, a sua vida passa. Você pode continuar no mesmo ciclo de desculpas, ou investir <strong style='color:#F59E0B'>R$ 27,00</strong> agora na Hotmart e ativar o código que vai blindar a sua mente.
       </p>
 
       <a id="t-final-cta-btn" href="https://pay.hotmart.com/B107479792A" target="_blank" class="btn-gold pulse-glow" style="max-width: 480px; margin: 0 auto 1.5rem auto;">
@@ -1750,10 +1750,10 @@ html_template = f"""<!DOCTYPE html>
     <div style="max-width: 680px; margin: 0 auto; width: 100%; display: flex; align-items: center; justify-content: space-between; gap: 0.75rem;">
       <div style="display: flex; flex-direction: column; text-align: left;">
         <span style="font-size: 0.68rem; color: #94A3B8; text-transform: uppercase; font-weight: 700;">Acesso Vitalício Hotmart</span>
-        <span id="t-sticky-price" style="font-size: 1.25rem; font-weight: 900; color: #F59E0B;">R$ 19,90</span>
+        <span id="t-sticky-price" style="font-size: 1.25rem; font-weight: 900; color: #F59E0B;">R$ 27,00</span>
       </div>
       <a id="t-sticky-btn-link" href="https://pay.hotmart.com/B107479792A" target="_blank" class="btn-gold" style="padding: 0.75rem 1.15rem; font-size: 0.8rem; border-radius: 0.75rem; width: auto; flex: 1;">
-        <span id="t-sticky-btn">COMPRAR NA HOTMART (R$ 19,90)</span>
+        <span id="t-sticky-btn">COMPRAR NA HOTMART (R$ 27,00)</span>
       </a>
     </div>
   </div>
