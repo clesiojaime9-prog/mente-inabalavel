@@ -39,7 +39,7 @@ translations = {
         "trust_guarantee": "Garantia Incondicional de 7 Dias",
         "problem_badge": "A REALIDADE NUA E CRUA",
         "problem_title": "Você já sabe o que fazer.",
-        "problem_title_red": "O problema é que você não faz.",
+        "problem_title_highlight": "O problema é que você não faz.",
         "problem_p1": "Você não está aqui por falta de informação. Já sabe que precisa acordar no horário. Já sabe que o celular está te comendo vivo. Já sabe exatamente qual vício está te matando devagar.",
         "problem_p2": "À noite, assistindo a um vídeo com trilha épica no TikTok, você promete que <strong style='color:#fff'>'amanhã tudo vai ser diferente'</strong>. Sente aquele arrepio de motivação às 23h.",
         "problem_p3": "Mas às 6h da manhã, o arrepio já morreu. Você aperta o botão soneca. Rola o feed por 40 minutos. E se sente um lixo antes mesmo de escovar os dentes.",
@@ -172,7 +172,7 @@ translations = {
         "trust_guarantee": "7-Day 100% Money-Back Guarantee",
         "problem_badge": "THE BRUTAL REALITY",
         "problem_title": "You already know what you need to do.",
-        "problem_title_red": "The problem is you don't do it.",
+        "problem_title_highlight": "The problem is you don't do it.",
         "problem_p1": "You are not here because of a lack of information. You already know you should wake up early. You already know your phone is draining your life. You know the bad habits holding you back.",
         "problem_p2": "At night, watching epic motivational clips on TikTok, you promise yourself that <strong style='color:#fff'>'tomorrow will be different'</strong>. You feel that rush of motivation at 11 PM.",
         "problem_p3": "By 6 AM, the motivation is completely gone. You hit snooze. You scroll social media for 40 minutes and feel like a failure before brushing your teeth.",
@@ -305,7 +305,7 @@ translations = {
         "trust_guarantee": "Garantía Incondicional de 7 Días",
         "problem_badge": "LA CRUDA REALIDAD",
         "problem_title": "Ya sabes exactamente lo que tienes que hacer.",
-        "problem_title_red": "El problema es que no lo haces.",
+        "problem_title_highlight": "El problema es que no lo haces.",
         "problem_p1": "No estás aquí por falta de información. Ya sabes que debes levantarte temprano. Ya sabes que las redes sociales te están robando el tiempo. Conoces perfectamente los malos hábitos que te frenan.",
         "problem_p2": "Por la noche, viendo vídeos motivacionales en TikTok, te prometes que <strong style='color:#fff'>'mañana todo será diferente'</strong>. Sientes esa ráfaga de motivación a las 23:00.",
         "problem_p3": "Pero a las 6:00 de la mañana, la motivación ha desaparecido. Pulsas posponer alarma. Pasas 40 minutos en el móvil y te sientes frustrado antes de levantarte.",
@@ -315,7 +315,7 @@ translations = {
         "turn_title_gold": "Es falta de un protocolo innegociable.",
         "turn_p1": "Pasas el día librando una agotadora batalla contra tu propia mente. Cada tarea se convierte en 2 horas de debate interno. Intentas avanzar por 'fuerza bruta' y terminas mentalmente agotado.",
         "turn_p2": "Los hombres que admiras no tienen superpoderes genéticos. Simplemente viven bajo <strong style='color:#F59E0B'>reglas que no se negocian</strong>.",
-        "turn_p3": "Cuando eliminas la negociación de tu rutina, la fatiga mental desaparece y la ejecución se vuelve automática.",
+        "turn_p3": "Quando eliminas la negociación de tu rutina, la fatiga mental desaparece y la ejecución se vuelve automática.",
         "pillar1_title": "Blindaje Emocional",
         "pillar1_desc": "Nunca más reacciones por impulso. Aprende a frenar la dopamina barata, silenciar las opiniones ajenas y mantener la calma bajo máxima presión.",
         "pillar2_title": "Ejecución Fría",
@@ -365,7 +365,7 @@ translations = {
         "item1_title": "1. Libro Digital: Mente Inquebrantable (PDF)",
         "item1_desc": "El manual central de 34 páginas con los 6 capítulos fundamentales, ejercicios prácticos y el código de 10 principios.",
         "item2_badge": "BONO 1 • EXCLUSIVO",
-        "item2_title": "2. Protocolo de 21 Días de Desafío Práctico",
+        "item2_title": "2. Protocolo de 21 Días de Desafio Práctico",
         "item2_desc": "Un plan diario paso a paso con una misión específica por día para blindar tu mente y romper la inercia.",
         "item3_badge": "BONO 2 • EXCLUSIVO",
         "item3_title": "3. Checklist Diario del Hombre Enfocado",
@@ -386,7 +386,7 @@ translations = {
         "for_title": "Para quién SÍ es este libro:",
         "for_1": "Quienes están hartos de prometerse cambios y recaer en los mismos errores al día siguiente.",
         "for_2": "Quienes quieren dominar sus emociones, frenar la procrastinación y tener enfoque absoluto.",
-        "for_3": "Hombres decididos a construir una reputación de respeto, honor y solidez.",
+        "for_3": "Hombres decididos a construir una reputação de respeto, honor y solidez.",
         "guar_badge": "RIESGO CERO ABSOLUTO",
         "guar_title": "Garantía Incondicional de 7 Días Hotmart",
         "guar_desc": "Lee el libro, aplica el Protocolo de 21 Días y comprueba el cambio mental. Si por cualquier motivo sientes que no te aportó un valor enorme, solicita el reembolso en Hotmart con un solo clic. Te devolvemos el 100% de tu dinero.",
@@ -432,7 +432,7 @@ html_template = f"""<!DOCTYPE html>
 
   <style>
     /* ========================================================================= */
-    /* RESET & CORE VARIABLES */
+    /* RESET & CORE LUXURY STOIC PALETTE */
     /* ========================================================================= */
     *, *::before, *::after {{
       box-sizing: border-box;
@@ -442,8 +442,8 @@ html_template = f"""<!DOCTYPE html>
 
     :root {{
       --bg-dark: #07080B;
-      --bg-card: #0F121C;
-      --bg-card-hover: #151A29;
+      --bg-card: #0E121B;
+      --bg-card-hover: #141A27;
       --gold-primary: #F59E0B;
       --gold-hover: #D97706;
       --gold-glow: rgba(245, 158, 11, 0.28);
@@ -452,7 +452,6 @@ html_template = f"""<!DOCTYPE html>
       --text-muted: #64748B;
       --border-dark: rgba(255, 255, 255, 0.08);
       --border-gold: rgba(245, 158, 11, 0.35);
-      --red-accent: #EF4444;
       --green-accent: #10B981;
     }}
 
@@ -488,8 +487,8 @@ html_template = f"""<!DOCTYPE html>
       -webkit-text-fill-color: transparent;
     }}
 
-    .red-gradient-text {{
-      background: linear-gradient(135deg, #FEE2E2 0%, #EF4444 60%, #B91C1C 100%);
+    .silver-gradient-text {{
+      background: linear-gradient(135deg, #FFFFFF 0%, #CBD5E1 50%, #94A3B8 100%);
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
     }}
@@ -542,7 +541,7 @@ html_template = f"""<!DOCTYPE html>
     }}
 
     .glass-card:hover {{
-      border-color: rgba(245, 158, 11, 0.3);
+      border-color: rgba(245, 158, 11, 0.35);
     }}
 
     /* Badge Pills */
@@ -564,10 +563,10 @@ html_template = f"""<!DOCTYPE html>
       color: #F59E0B;
     }}
 
-    .badge-red {{
-      background: rgba(239, 68, 68, 0.12);
-      border: 1px solid rgba(239, 68, 68, 0.35);
-      color: #EF4444;
+    .badge-silver {{
+      background: rgba(255, 255, 255, 0.06);
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      color: #E2E8F0;
     }}
 
     .badge-green {{
@@ -679,8 +678,8 @@ html_template = f"""<!DOCTYPE html>
     }}
 
     .quiz-option.selected-weak {{
-      border-color: #EF4444;
-      background: rgba(239, 68, 68, 0.1);
+      border-color: #64748B;
+      background: rgba(100, 116, 139, 0.15);
     }}
 
     .quiz-option.selected-strong {{
@@ -862,7 +861,7 @@ html_template = f"""<!DOCTYPE html>
 
     <div class="container-custom" style="text-align: center; position: relative; z-index: 2;">
       
-      <!-- TikTok Hook Badge -->
+      <!-- Hook Badge -->
       <div class="badge-pill badge-gold" style="margin-bottom: 1.25rem;">
         <svg width="14" height="14" viewBox="0 0 20 20" fill="currentColor" style="color: #F59E0B;">
           <path fill-rule="evenodd" d="M11.3 1.046A1 1 0 0112 2v5h4a1 1 0 01.82 1.573l-7 10A1 1 0 018 18v-5H4a1 1 0 01-.82-1.573l7-10a1 1 0 011.12-.381z" clip-rule="evenodd"/>
@@ -870,9 +869,9 @@ html_template = f"""<!DOCTYPE html>
         <span id="t-hook-badge">GUIA OFICIAL DO PERFIL MENTE INABALÁVEL</span>
       </div>
 
-      <!-- Main VSL Headline -->
+      <!-- Main VSL Headline (Refined Gold Gradient) -->
       <h1 style="font-size: clamp(1.85rem, 5.5vw, 2.75rem); font-weight: 900; line-height: 1.15; letter-spacing: -0.03em; margin-bottom: 1.25rem; text-transform: uppercase;">
-        <span id="t-headline-start">PARE DE</span> <span id="t-headline-highlight" class="red-gradient-text">NEGOCIAR COM VOCÊ MESMO</span> <span id="t-headline-end">E ASSUMA O CONTROLE.</span>
+        <span id="t-headline-start">PARE DE</span> <span id="t-headline-highlight" class="gold-gradient-text">NEGOCIAR COM VOCÊ MESMO</span> <span id="t-headline-end">E ASSUMA O CONTROLE.</span>
       </h1>
 
       <!-- Subheadline -->
@@ -890,7 +889,7 @@ html_template = f"""<!DOCTYPE html>
       </div>
 
       <!-- Main Anchor Pricing Box in Hero -->
-      <div style="background: rgba(15, 18, 28, 0.85); border: 1px solid rgba(245, 158, 11, 0.3); border-radius: 1rem; padding: 1.25rem; margin-bottom: 1.5rem; max-width: 480px; margin-left: auto; margin-right: auto;">
+      <div style="background: rgba(14, 18, 27, 0.9); border: 1px solid rgba(245, 158, 11, 0.35); border-radius: 1rem; padding: 1.25rem; margin-bottom: 1.5rem; max-width: 480px; margin-left: auto; margin-right: auto; box-shadow: 0 10px 30px rgba(0,0,0,0.6);">
         <div style="display: flex; align-items: center; justify-content: center; gap: 0.75rem; margin-bottom: 0.5rem;">
           <span id="t-price-anchor" style="color: #64748B; text-decoration: line-through; font-size: 1.1rem; font-weight: 600;">De R$ 97,00</span>
           <span id="t-price-current" style="color: #F59E0B; font-size: 1.85rem; font-weight: 900;">Por apenas R$ 19,90</span>
@@ -923,22 +922,22 @@ html_template = f"""<!DOCTYPE html>
   </section>
 
   <!-- ========================================================================= -->
-  <!-- 1. PROBLEM / AGITATION SECTION -->
+  <!-- 1. PROBLEM / AGITATION SECTION (PREMIUM TITANIUM & GOLD) -->
   <!-- ========================================================================= -->
-  <section style="padding: 3rem 0; background: #0A0D15; border-top: 1px solid var(--border-dark); border-bottom: 1px solid var(--border-dark);">
+  <section style="padding: 3.5rem 0; background: #0A0D15; border-top: 1px solid var(--border-dark); border-bottom: 1px solid var(--border-dark);">
     <div class="container-custom">
       
       <div style="text-align: center; margin-bottom: 2rem;">
-        <div class="badge-pill badge-red" style="margin-bottom: 0.75rem;">
+        <div class="badge-pill badge-silver" style="margin-bottom: 0.75rem;">
           <span id="t-problem-badge">A REALIDADE NUA E CRUA</span>
         </div>
         <h2 style="font-size: clamp(1.5rem, 4vw, 2rem); font-weight: 800; line-height: 1.25;">
           <span id="t-problem-title">Você já sabe o que fazer.</span><br>
-          <span id="t-problem-title-red" class="red-gradient-text">O problema é que você não faz.</span>
+          <span id="t-problem-title-highlight" class="gold-gradient-text">O problema é que você não faz.</span>
         </h2>
       </div>
 
-      <div class="glass-card" style="border-left: 4px solid #EF4444; margin-bottom: 1.5rem;">
+      <div class="glass-card" style="border-left: 4px solid #F59E0B; margin-bottom: 1.5rem;">
         <p id="t-problem-p1" style="color: #CBD5E1; font-size: 0.95rem; margin-bottom: 1rem; line-height: 1.7;">
           Você não está aqui por falta de informação. Já sabe que precisa acordar no horário. Já sabe que o celular está te comendo vivo. Já sabe exatamente qual vício está te matando devagar.
         </p>
@@ -950,8 +949,8 @@ html_template = f"""<!DOCTYPE html>
         </p>
       </div>
 
-      <div style="background: rgba(239, 68, 68, 0.08); border: 1px dashed rgba(239, 68, 68, 0.35); border-radius: 0.85rem; padding: 1.25rem; text-align: center;">
-        <p id="t-problem-quote" style="font-size: 0.88rem; color: #FCA5A5; font-style: italic; font-weight: 500;">
+      <div style="background: rgba(245, 158, 11, 0.06); border: 1px dashed rgba(245, 158, 11, 0.35); border-radius: 0.85rem; padding: 1.25rem; text-align: center;">
+        <p id="t-problem-quote" style="font-size: 0.88rem; color: #FDE68A; font-style: italic; font-weight: 500;">
           "Motivação de rede social é um anestésico temporário. Sem um código de conduta interno, você vai continuar sendo escravo dos seus impulsos pelo resto da vida."
         </p>
       </div>
@@ -1018,7 +1017,7 @@ html_template = f"""<!DOCTYPE html>
   </section>
 
   <!-- ========================================================================= -->
-  <!-- 3. INTERACTIVE QUIZ DIAGNOSTIC (TIKTOK STYLE) -->
+  <!-- 3. INTERACTIVE QUIZ DIAGNOSTIC -->
   <!-- ========================================================================= -->
   <section style="padding: 3rem 0; background: #0B0E18; border-top: 1px solid var(--border-dark); border-bottom: 1px solid var(--border-dark);">
     <div class="container-custom">
@@ -1381,9 +1380,9 @@ html_template = f"""<!DOCTYPE html>
   </section>
 
   <!-- ========================================================================= -->
-  <!-- 7. WHO IS IT FOR / WHO IS IT NOT FOR -->
+  <!-- 7. WHO IS IT FOR / WHO IS IT NOT FOR (LUXURY CONTRAST) -->
   <!-- ========================================================================= -->
-  <section style="padding: 3rem 0; background: #0A0D15; border-top: 1px solid var(--border-dark); border-bottom: 1px solid var(--border-dark);">
+  <section style="padding: 3.5rem 0; background: #0A0D15; border-top: 1px solid var(--border-dark); border-bottom: 1px solid var(--border-dark);">
     <div class="container-custom">
       
       <!-- Device Compatibility Box -->
@@ -1398,26 +1397,26 @@ html_template = f"""<!DOCTYPE html>
 
       <div style="display: grid; grid-template-columns: 1fr; gap: 1.5rem;">
         
-        <!-- Not For -->
-        <div class="glass-card" style="border-left: 3px solid #EF4444;">
-          <h3 id="t-not-for-title" style="font-size: 1.05rem; font-weight: 800; color: #EF4444; margin-bottom: 0.75rem; display: flex; align-items: center; gap: 0.5rem;">
-            <span>✕</span> Para quem NÃO é este guia:
+        <!-- Not For (Refined Dark Slate / Charcoal) -->
+        <div class="glass-card" style="border-left: 4px solid #64748B;">
+          <h3 id="t-not-for-title" style="font-size: 1.05rem; font-weight: 800; color: #E2E8F0; margin-bottom: 0.75rem; display: flex; align-items: center; gap: 0.5rem;">
+            <span style="color: #94A3B8;">✕</span> Para quem NÃO é este guia:
           </h3>
           <ul style="list-style: none; display: flex; flex-direction: column; gap: 0.5rem; font-size: 0.85rem; color: #94A3B8;">
             <li id="t-not-for-1" style="display: flex; gap: 0.5rem; align-items: flex-start;">
-              <span style="color: #EF4444;">•</span> Pessoas que buscam fórmulas mágicas de sucesso sem fazer esforço diário.
+              <span style="color: #64748B;">•</span> Pessoas que buscam fórmulas mágicas de sucesso sem fazer esforço diário.
             </li>
             <li id="t-not-for-2" style="display: flex; gap: 0.5rem; align-items: flex-start;">
-              <span style="color: #EF4444;">•</span> Quem prefere continuar reclamando das circunstâncias e culpando o mundo.
+              <span style="color: #64748B;">•</span> Quem prefere continuar reclamando das circunstâncias e culpando o mundo.
             </li>
             <li id="t-not-for-3" style="display: flex; gap: 0.5rem; align-items: flex-start;">
-              <span style="color: #EF4444;">•</span> Quem se ofende facilmente com verdades duras e autocrítica necessária.
+              <span style="color: #64748B;">•</span> Quem se ofende facilmente com verdades duras e autocrítica necessária.
             </li>
           </ul>
         </div>
 
-        <!-- For -->
-        <div class="glass-card" style="border-left: 3px solid #10B981;">
+        <!-- For (Emerald Green & Gold Luxury Accent) -->
+        <div class="glass-card" style="border-left: 4px solid #10B981; background: rgba(16, 185, 129, 0.03);">
           <h3 id="t-for-title" style="font-size: 1.05rem; font-weight: 800; color: #10B981; margin-bottom: 0.75rem; display: flex; align-items: center; gap: 0.5rem;">
             <span>✓</span> Para quem É este guia:
           </h3>
@@ -1626,7 +1625,7 @@ html_template = f"""<!DOCTYPE html>
 
       setContent('t-problem-badge', d.problem_badge);
       setContent('t-problem-title', d.problem_title);
-      setContent('t-problem-title-red', d.problem_title_red);
+      setContent('t-problem-title-highlight', d.problem_title_highlight);
       setContent('t-problem-p1', d.problem_p1);
       setContent('t-problem-p2', d.problem_p2);
       setContent('t-problem-p3', d.problem_p3);
@@ -1803,8 +1802,8 @@ html_template = f"""<!DOCTYPE html>
       if (choice === 'weak') {{
         el.classList.add('selected-weak');
         circle.textContent = '✕';
-        circle.style.borderColor = '#EF4444';
-        circle.style.background = '#EF4444';
+        circle.style.borderColor = '#94A3B8';
+        circle.style.background = '#475569';
         circle.style.color = '#FFFFFF';
       }} else {{
         el.classList.add('selected-strong');
@@ -1832,4 +1831,4 @@ final_html = html_template.replace("TRANSLATIONS_JSON_PLACEHOLDER", json_str)
 with open('/home/user/index.html', 'w', encoding='utf-8') as f:
     f.write(final_html)
 
-print("Successfully generated Hotmart-exclusive Sales Page (BR, US, ES)! Size:", os.path.getsize('/home/user/index.html'))
+print("Successfully generated Luxury Gold / Dark Stoic Sales Page! Size:", os.path.getsize('/home/user/index.html'))
